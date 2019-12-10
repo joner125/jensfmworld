@@ -2,4 +2,4 @@
 
 Here you can find information on all our frangrances!
 
-![Image of Candle](/images/CandleFM.jpg)
+{% include instagram.html %}
