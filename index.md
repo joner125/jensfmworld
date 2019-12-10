@@ -1,5 +1,5 @@
 ## Welcome to Jen's FMWorld
 
-Here you can find information on all our frangrances!
+We provide you with 5* Designer Inspired Fragrances at a fraction of the price!
 
 {% include instagram.html %}
